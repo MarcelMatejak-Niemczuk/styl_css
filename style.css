@@ -1,1 +1,23 @@
+body{
+    background-color: bisque;
+    text-align: center;
+    align-content: center;
+    font-size: 50px;
+}
 
+a.link1:link{
+    color: rgb(0, 255, 0);
+    text-decoration: underline;
+}
+
+a.link2:visited{
+    color: brown;
+}
+
+a.link3:hover{
+    color: aqua;
+}
+
+a.link4:active{
+    color: rgb(255, 0, 221);
+}
